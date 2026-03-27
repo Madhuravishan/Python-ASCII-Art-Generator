@@ -5,7 +5,7 @@ A Python script that takes standard digital images and converts them into text-b
 ### 📸 Conversion Example
 | Original Input | ASCII Output |
 | :---: | :---: |
-| ![Input Image](input.jpg) | ![ASCII Result](output.jpg) |
+| ![Input Image](input.jpg) | ![ASCII Result](output.png) |
 
 ### ✨ How It Works
 * **Pixel Processing:** The script reads the target image and analyzes the brightness (luminosity) of each individual pixel.
